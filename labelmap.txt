@@ -1,0 +1,12 @@
+label	class
+0	background
+1	skin
+2	left eyebrow
+3	right eyebrow
+4	left eye
+5	right eye
+6	nose
+7	upper lip
+8	inner mouth
+9	lower lip
+10	hair
