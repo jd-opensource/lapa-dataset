@@ -14,8 +14,15 @@ we develop a high-efficiency framework for pixel-level face parsing annotating a
 ## Citation
 If you use our datasets, please cite the following paper:
 
-[A New Dataset and Boundary-Attention Semantic Segmentation for Face Parsing.](https://www.aaai.org/Papers/AAAI/2020GB/AAAI-LiuY.6557.pdf) Yinglu Liu, Hailin Shi, Hao Shen, Yue Si, Xiaobo Wang, Tao Mei. In AAAI, 2020.
+[A New Dataset and Boundary-Attention Semantic Segmentation for Face Parsing.](https://aaai.org/ojs/index.php/AAAI/article/view/6832/6686) Yinglu Liu, Hailin Shi, Hao Shen, Yue Si, Xiaobo Wang, Tao Mei. In AAAI, 2020.
 
+@inproceedings{liu2020new,  
+  title={A New Dataset and Boundary-Attention Semantic Segmentation for Face Parsing.},  
+  author={Liu, Yinglu and Shi, Hailin and Shen, Hao and Si, Yue and Wang, Xiaobo and Mei, Tao},  
+  booktitle={AAAI},  
+  pages={11637--11644},  
+  year={2020}  
+}
 
 ## License
 This LaPa Dataset is made freely available to academic and non-academic entities for non-commercial purposes such as academic research, teaching, scientific publications, or personal experimentation. Permission is granted to use the data given that you agree to our license terms.
