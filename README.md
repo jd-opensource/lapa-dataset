@@ -7,9 +7,8 @@ we develop a high-efficiency framework for pixel-level face parsing annotating a
 <center>Fig. 1: Annotation examples of the proposed LaPa dataset.</center>
 
 ## Download
-[Google Drive](https://drive.google.com/open?id=1EtyCtiQZt2Y5qrb-0YxRxaVLpVcgCOQV)
+[Google Drive](https://drive.google.com/file/d/1XOBoRGSraP50_pS1YPB8_i8Wmw_5L-NG/view?usp=sharing)
 
-[Baidu](https://pan.baidu.com/s/1wwQAdLRLo6WwF03j8Jo4RA) code: ewd2
 
 ## Citation
 If you use our datasets, please cite the following paper:
