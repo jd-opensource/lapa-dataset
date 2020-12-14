@@ -1,6 +1,6 @@
 # LaPa-Dataset for face parsing
 ## Introduction
-we develop a high-efficiency framework for pixel-level face parsing annotating and construct a new large-scale **La**ndmark guided face **Pa**rsing dataset (LaPa). It consists of more than 22,000 facial images with abundant variations in expression, pose and occlusion, and each image of LaPa is provided with a 11-category pixel-level label map and 106-point landmarks.
+we develop a high-efficiency framework for pixel-level face parsing annotating and construct a new large-scale **La**ndmark guided face **Pa**rsing dataset (LaPa) for face parsing. It consists of more than 22,000 facial images with abundant variations in expression, pose and occlusion, and each image of LaPa is provided with a 11-category pixel-level label map and 106-point landmarks.
 
 <img src="https://github.com/lucia123/lapa-dataset/blob/master/sample.png" width="600" alt="picture"/>
 
