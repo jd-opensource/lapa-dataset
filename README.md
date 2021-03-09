@@ -9,6 +9,8 @@ we develop a high-efficiency framework for pixel-level face parsing annotating a
 ## Download
 [Google Drive](https://drive.google.com/file/d/1XOBoRGSraP50_pS1YPB8_i8Wmw_5L-NG/view?usp=sharing)
 
+[Baidu Netdisk](https://pan.baidu.com/s/10GDmsmJJ28ugEJzj5Mu9gQ) code: LaPa
+
 
 ## Citation
 If you use our datasets, please cite the following paper:
