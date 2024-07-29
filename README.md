@@ -1,4 +1,4 @@
-<!---->
+<!--
 # LaPa-Dataset for face parsing
 ## Introduction
 we develop a high-efficiency framework for pixel-level face parsing annotating and construct a new large-scale **La**ndmark guided face **Pa**rsing dataset (LaPa) for face parsing. It consists of more than 22,000 facial images with abundant variations in expression, pose and occlusion, and each image of LaPa is provided with a 11-category pixel-level label map and 106-point landmarks.
@@ -33,3 +33,4 @@ This LaPa Dataset is made freely available to academic and non-academic entities
 
 ## Paper
 [A New Dataset and Boundary-Attention Semantic Segmentation for Face Parsing.](https://aaai.org/ojs/index.php/AAAI/article/view/6832/6686)
+-->
